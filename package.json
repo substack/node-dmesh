@@ -1,5 +1,5 @@
 {
-    "name" : "dnode",
+    "name" : "dmesh",
     "version" : "0.0.1",
     "description" : "Manage pools of DNode services that fulfill specific roles",
     "modules" : {
