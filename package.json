@@ -1,0 +1,16 @@
+{
+    "name" : "dnode",
+    "version" : "0.0.1",
+    "description" : "Manage pools of DNode services that fulfill specific roles",
+    "modules" : {
+        "index" : "./lib/dmesh"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/substack/node-dmesh.git"
+    },
+    "dependencies" : {
+        "dnode" : ">=0.3.7"
+    },
+    "engine" : ["node >=0.2.0"]
+}
